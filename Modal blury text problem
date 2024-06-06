@@ -1,0 +1,7 @@
+Popup Modal Text Blur.
+  while using Angular material's inputs in Bootstrap Modal We get an Blury text to resolve it 
+  add this into Main CSS file.
+
+  .modal{
+      opacity: 1 !important;
+  }
